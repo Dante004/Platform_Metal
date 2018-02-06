@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformMetal", "PlatformMetal.csproj", "{9DF09489-824C-92B9-E55C-1A0CE51B3A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformMetal.Editor", "PlatformMetal.Editor.csproj", "{828B89A9-9FDE-9ED7-A563-CBCE074B2866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF09489-824C-92B9-E55C-1A0CE51B3A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF09489-824C-92B9-E55C-1A0CE51B3A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF09489-824C-92B9-E55C-1A0CE51B3A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF09489-824C-92B9-E55C-1A0CE51B3A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828B89A9-9FDE-9ED7-A563-CBCE074B2866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828B89A9-9FDE-9ED7-A563-CBCE074B2866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828B89A9-9FDE-9ED7-A563-CBCE074B2866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828B89A9-9FDE-9ED7-A563-CBCE074B2866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

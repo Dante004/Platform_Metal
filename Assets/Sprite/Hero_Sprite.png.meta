@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 1e288f5e400df1544a63c1cc2ef262d1
+timeCreated: 1509048432
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero_Sprite_0
+    21300002: Hero_Sprite_1
+    21300004: Hero_Sprite_2
+    21300006: Hero_Sprite_3
+    21300008: Hero_Sprite_4
+    21300010: Hero_Sprite_5
+    21300012: Hero_Sprite_6
+    21300014: Hero_Sprite_7
+    21300016: Hero_Sprite_8
+    21300018: Hero_Sprite_9
+    21300020: Hero_Sprite_10
+    21300022: Hero_Sprite_11
+    21300024: Hero_Sprite_12
+    21300026: Hero_Sprite_13
+    21300028: Hero_Sprite_14
+    21300030: Hero_Sprite_15
+    21300032: Hero_Sprite_16
+    21300034: Hero_Sprite_17
+    21300036: Hero_Sprite_18a
+    21300038: Hero_Sprite_19
+    21300040: Hero_Sprite_20
+    21300042: Hero_Sprite_21
+    21300044: Hero_Sprite_22
+    21300046: Hero_Sprite_23
+    21300048: Hero_Sprite_24
+    21300050: Hero_Sprite_25
+    21300052: Hero_Sprite_26
+    21300054: Hero_Sprite_27
+    21300056: Hero_Sprite_28
+    21300058: Hero_Sprite_29
+    21300060: Hero_Sprite_30
+    21300062: Hero_Sprite_31
+    21300064: Hero_Sprite_32
+    21300066: Hero_Sprite_33
+    21300068: Hero_Sprite_34
+    21300070: Hero_Sprite_35
+    21300072: Hero_Sprite_36
+    21300074: Hero_Sprite_37
+    21300076: Hero_Sprite_38
+    21300078: Hero_Sprite_39
+    21300080: Hero_Sprite_40
+    21300082: Hero_Sprite_41
+    21300084: Hero_Sprite_42
+    21300086: Hero_Sprite_43
+    21300088: Hero_Sprite_44
+    21300090: Hero_Sprite_45
+    21300092: Hero_Sprite_46
+    21300094: Hero_Sprite_47
+    21300096: Hero_Sprite_48
+    21300098: Hero_Sprite_49
+    21300100: Hero_Sprite_50
+    21300102: Hero_Sprite_51
+    21300104: Hero_Sprite_52
+    21300106: Hero_Sprite_53
+    21300108: Hero_Sprite_54
+    21300110: Hero_Sprite_55
+    21300112: Hero_Sprite_56
+    21300114: Hero_Sprite_57
+    21300116: Hero_Sprite_58
+    21300118: Hero_Sprite_59
+    21300120: Hero_Sprite_60
+    21300122: Hero_Sprite_61
+    21300124: Hero_Sprite_62
+    21300126: Hero_Sprite_63
+    21300128: Hero_Sprite_64
+    21300130: Hero_Sprite_65
+    21300132: Hero_Sprite_66
+    21300134: Hero_Sprite_67
+    21300136: Hero_Sprite_68
+    21300138: Hero_Sprite_69
+    21300140: Hero_Sprite_70
+    21300142: Hero_Sprite_71
+    21300144: Hero_Sprite_72
+    21300146: Hero_Sprite_73
+    21300148: Hero_Sprite_74
+    21300150: Hero_Sprite_75
+    21300152: Hero_Sprite_76
+    21300154: Hero_Sprite_77
+    21300156: Hero_Sprite_78
+    21300158: Hero_Sprite_79
+    21300160: Hero_Sprite_80
+    21300162: Hero_Sprite_81
+    21300164: Hero_Sprite_82
+    21300166: Hero_Sprite_83
+    21300168: Hero_Sprite_84
+    21300170: Hero_Sprite_85
+    21300172: Hero_Sprite_86
+    21300174: Hero_Sprite_87
+    21300176: Hero_Sprite_88
+    21300178: Hero_Sprite_89
+    21300180: Hero_Sprite_90
+    21300182: Hero_Sprite_91
+    21300184: Hero_Sprite_92
+    21300186: Hero_Sprite_93
+    21300188: Hero_Sprite_94
+    21300190: Hero_Sprite_95
+    21300192: Hero_Sprite_96
+    21300194: Hero_Sprite_97
+    21300196: Hero_Sprite_98
+    21300198: Hero_Sprite_99
+    21300200: Hero_Sprite_100
+    21300202: Hero_Sprite_101
+    21300204: Hero_Sprite_102
+    21300206: Hero_Sprite_103
+    21300208: Hero_Sprite_104
+    21300210: Hero_Sprite_105
+    21300212: Hero_Sprite_106
+    21300214: Hero_Sprite_107
+    21300216: Hero_Sprite_18b
+    21300218: Hero_Sprite_109
+    21300220: Hero_Sprite_110
+    21300222: Hero_Sprite_111
+    21300224: Hero_Sprite_112
+    21300226: Hero_Sprite_113
+    21300228: Hero_Sprite_18
+    21300230: Hero_Sprite_108
+    21300232: Hero_Sprite_114
+    21300234: Hero_Sprite_115
+    21300236: Hero_Sprite_116
+    21300238: Hero_Sprite_117
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 27
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 477
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 477
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 477
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 477
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 477
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 477
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 477
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 477
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 440
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 440
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 442
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 440
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 440
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 440
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 442
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 440
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 443
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 443
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_18a
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 443
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 412
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 410
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 413
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 414
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 412
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 410
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 412
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 413
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 421
+        width: 2
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 365
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 365
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 365
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 365
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 365
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 328
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 329
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 328
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 328
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 289
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 289
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 290
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 291
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 290
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 289
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 289
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 289
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 291
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 251
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 251
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 251
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 251
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 251
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 251
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 251
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 251
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 195
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5654169, y: 0.5224282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 195
+        width: 23
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47952136, y: 0.4896706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 195
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.23996639, y: 0.46074906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 195
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.12269051, y: 0.49787778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 195
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.10531616, y: 0.5291569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 195
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.103135854, y: 0.53139955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 195
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.11762557, y: 0.5224282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 195
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.22034073, y: 0.464674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.54362404, y: 0.5450091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 139
+        width: 23
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5105375, y: 0.5380846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 139
+        width: 20
+        height: 35
+      alignment: 9
+      pivot: {x: 0.40911713, y: 0.5380846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 139
+        width: 20
+        height: 35
+      alignment: 9
+      pivot: {x: 0.31823426, y: 0.5242357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 139
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.17375301, y: 0.5276982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 139
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.09737765, y: 0.52769864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 139
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.09944153, y: 0.5311602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 139
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.09296828, y: 0.54154664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.08606533, y: 0.5331142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 83
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.08088057, y: 0.5270933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 83
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.07853905, y: 0.53010386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_101
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 83
+        width: 53
+        height: 35
+      alignment: 9
+      pivot: {x: 0.07058687, y: 0.52408296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_103
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 83
+        width: 52
+        height: 35
+      alignment: 9
+      pivot: {x: 0.072460175, y: 0.5210724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_104
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 83
+        width: 55
+        height: 35
+      alignment: 9
+      pivot: {x: 0.1379267, y: 0.53010386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_106
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 83
+        width: 56
+        height: 35
+      alignment: 9
+      pivot: {x: 0.16697039, y: 0.5270933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_18b
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 444
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_109
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 421
+        width: 2
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 421
+        width: 2
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 421
+        width: 2
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 421
+        width: 2
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 421
+        width: 2
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 291
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 365
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 365
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 365
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 365
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 365
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 327
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 329
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 328
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 251
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 251
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 253
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 32
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 32
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 32
+        width: 27
+        height: 35
+      alignment: 9
+      pivot: {x: 0.32308677, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 32
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.29231873, y: 0.50593394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.28490177, y: 0.48219898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 32
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 32
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_102
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 32
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 32
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 32
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 32
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_105
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 32
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
